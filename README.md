@@ -1,4 +1,4 @@
-#Juan Pablo Giillette
+<h1>Juan Pablo Giillette</h1>
 
 <p>Mi nombre es Juan Pablo, me dicen Juampi y estoy en segundo año de la carrera.</p>
 <p>En mi tiempo libre me gusta juntarme con amigos o con mi novia, y sino mirar alguna serie o leer.</p>
